@@ -1,8 +1,13 @@
 body
 {
+<<<<<<< HEAD
+    text-align: left;
+    color: blue;
+=======
     background: #1e1f24;
     color: #333;
     text-align: center;
+>>>>>>> 34298454c31ac03d813fde0871e7ef336f4ae8ee
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
